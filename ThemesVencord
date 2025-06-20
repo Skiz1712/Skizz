@@ -13,7 +13,7 @@
 :root {
 --main-theme-color: #B50000FF;
 --theme-transparency: #000000cc;
---theme-background-image: url('https://i.postimg.cc/N09SwRXM/waguri.jpg');
+--theme-background-image: url('https://imgur.com/a/ic2gcby');
 --home-icon-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMk1N-OnRqMw8i31xzDzuxdj6o9z1l5dvEoQ&usqp=CAU');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
@@ -29,10 +29,10 @@
 --video-screen-button-background-hovor-color: #000000FF;
 --video-screen-button-foreground-hovor-color: #FFFFFFFF;
 --member-listing-role-color: #B50000FF;
---small-user-popout-background-image: url('https://i.postimg.cc/N09SwRXM/waguri.jpg');
+--small-user-popout-background-image: url('https://imgur.com/a/ic2gcby');
 --small-user-popout-background-transparency: #0F0F0F99;
 --small-user-popout-background-image-position: center;
---big-user-popout-background-image: url('https://i.postimg.cc/N09SwRXM/waguri.jpg');
+--big-user-popout-background-image: url('https://imgur.com/a/ic2gcby');
 --big-user-popout-background-transparency: #00000099;
 --big-user-popout-background-image-position: center;
 --code-markup-background-color: #1f1e1e;
